@@ -1,7 +1,6 @@
 
 # Web Design Challenge
 
-### https://fabiola-c14.github.io/Web-Design-Challenge/
 
 A dashboard was created using HTML and CSS to display weather data. The dashboard contains the following:
 
@@ -15,3 +14,16 @@ A dashboard was created using HTML and CSS to display weather data. The dashboar
   * Bootstrap grid was used for the visualizations.
 * A "Data" page that:
   * Displays a table containing the data used in the visualizations.
+
+### Link: https://fabiola-c14.github.io/Web-Design-Challenge/
+
+### Screenshot of pages:
+
+### Landing Page
+![](visualizations/landing_page.png)
+
+
+![](visualizations/weather_data.PNG)
+
+
+![](visualizations/comparison_data.PNG)
