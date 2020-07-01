@@ -2,7 +2,7 @@
 # Web Design Challenge
 
 
-A dashboard was created using HTML and CSS to display weather data. The dashboard contains the following:
+In this project a weather datadashboard was created using HTML and CSS.. The dashboard contains the following:
 
 * A landing page containing  a brief explanation of the project, and the link to the visualizations page.
 * A visualization page with:
